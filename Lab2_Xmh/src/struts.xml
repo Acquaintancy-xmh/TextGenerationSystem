@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<!-- 声明包 -->
+	<package name="user" extends="struts-default">
+		<!-- 定义action -->
+		<action name="findBook" class="action.UserAction" method = "findBook">
+			<!-- 定义处理成功后的映射页面 -->
+			<result name = "success">result_table.jsp</result>
+		</action>
+		<action name="addBook" class="action.UserAction" method = "addBook">
+			<!-- 定义处理成功后的映射页面 -->
+			<result name = "success">success.jsp</result>
+			<result name = "authorerror">error.jsp</result>
+			<result name = "somethingerror">error.jsp</result>
+		</action>
+		<action name="deleteBook" class="action.UserAction" method = "deleteBook">
+			<!-- 定义处理成功后的映射页面 -->
+			<result name = "success">success.jsp</result>
+		</action>
+		<action name="editBook" class="action.UserAction" method = "editBook">
+			<!-- 定义处理成功后的映射页面 -->
+			<result name = "success">editBook.jsp</result>
+		</action>
+		<action name="details" class="action.UserAction" method = "details">
+			<result name = "success">details.jsp</result>
+		</action>
+		<action name="addAuthor" class="action.UserAction" method = "addAuthor">
+			<result name = "success">success.jsp</result>
+			<result name = "Authorexist">error.jsp</result>
+		</action>
+		<action name="showBook" class="action.UserAction" method = "showBook">
+			<result name = "success">result_table.jsp</result>
+		</action>
+		<action name="deleteandadd" class="action.UserAction" method = "deleteandadd">
+			<result name = "success">success.jsp</result>
+			<result name = "authorerror_toedit">error.jsp</result>
+			<result name = "somethingerror_toedit">error.jsp</result>
+		</action>
+		
+	</package>
+</struts>
