@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9858e399-f427-4b2f-8533-9036662cd758" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../GetSummary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/firstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/firstSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/fullSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/fullSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/secondSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/secondSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/splitSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平主席在亚太经合组织工商领导人峰会上的主旨演讲（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平主席在亚太经合组织工商领导人峰会上的主旨演讲（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/splitSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/splitSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在2018年中非合作论坛北京峰会开幕式上的主旨讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在2018年中非合作论坛北京峰会开幕式上的主旨讲话（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织成员国元首理事会第十八次会议上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织成员国元首理事会第十八次会议上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/firstSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/fullSentenceSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/keyWords.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/secondSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/splitSentenceSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在中阿合作论坛第八届部长级会议开幕式上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在中阿合作论坛第八届部长级会议开幕式上的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/seqFirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/seqFirstSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在亚太经合组织第二十六次领导人非正式会议上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在亚太经合组织第二十六次领导人非正式会议上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/splitSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家工商论坛上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家工商论坛上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家领导人约翰内斯堡会晤大范围会议上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家领导人约翰内斯堡会晤大范围会议上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在首届中国国际进口博览会开幕式上的主旨演讲（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在首届中国国际进口博览会开幕式上的主旨演讲（全文）-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/seqFirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/seqFirstSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/firstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/firstSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/fullSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/fullSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/secondSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/secondSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/splitSentenceSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/seqFirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/seqFirstSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在民营企业座谈会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在民营企业座谈会上的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在深入推动长江经济带发展座谈会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在深入推动长江经济带发展座谈会上的讲话-新华网/keyWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/firstSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/fullSentenceSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/keyWords.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/secondSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/splitSentenceSummary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/FirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/FirstSummary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/TestDocument.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/getSummary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/getSummary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/src/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/src/com/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GetSummary/src/com/getSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/src/com/getSummary.java" afterDir="false" />
-    </list>
+    <list default="true" id="9858e399-f427-4b2f-8533-9036662cd758" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
