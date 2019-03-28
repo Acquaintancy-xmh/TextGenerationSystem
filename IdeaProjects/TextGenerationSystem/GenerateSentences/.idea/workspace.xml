@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9858e399-f427-4b2f-8533-9036662cd758" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../GetSummary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/firstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/firstSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/fullSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/fullSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/secondSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/secondSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/主席习近平发表二〇一九年新年贺词-新/splitSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平主席在亚太经合组织工商领导人峰会上的主旨演讲（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平主席在亚太经合组织工商领导人峰会上的主旨演讲（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同上海合作组织成员国领导人共同会见记者时的讲话（全文）-新华网/splitSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平同中非合作论坛前任和新任非方共同主席国元首共见记者时的讲话-新华网/splitSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在2018年中非合作论坛北京峰会开幕式上的主旨讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在2018年中非合作论坛北京峰会开幕式上的主旨讲话（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织成员国元首理事会第十八次会议上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织成员国元首理事会第十八次会议上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/firstSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/fullSentenceSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/keyWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/secondSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在上海合作组织青岛峰会欢迎宴会上的祝酒辞（全文）-新华网/splitSentenceSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在中阿合作论坛第八届部长级会议开幕式上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在中阿合作论坛第八届部长级会议开幕式上的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/seqFirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在二十国集团领导人第十三次峰会第一阶段会议上的讲话(全文)-新华网/seqFirstSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在亚太经合组织第二十六次领导人非正式会议上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在亚太经合组织第二十六次领导人非正式会议上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在第四届东方经济论坛全会上的致辞-新华网/splitSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家工商论坛上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家工商论坛上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家领导人约翰内斯堡会晤大范围会议上的讲话（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在金砖国家领导人约翰内斯堡会晤大范围会议上的讲话（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平在首届中国国际进口博览会开幕式上的主旨演讲（全文）-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平在首届中国国际进口博览会开幕式上的主旨演讲（全文）-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/seqFirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话-新华网/seqFirstSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/firstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/firstSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/fullSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/fullSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/secondSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/secondSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/splitSentenceSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在全国政协新年茶话会上的讲话-新华网/splitSentenceSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/seqFirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在庆祝改革开放40周年大会上的讲话-新华网/seqFirstSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在民营企业座谈会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在民营企业座谈会上的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在深入推动长江经济带发展座谈会上的讲话-新华网/keyWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在深入推动长江经济带发展座谈会上的讲话-新华网/keyWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/firstSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/fullSentenceSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/keyWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/secondSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/Documents/习近平：在纪念刘少奇同志诞辰120周年座谈会上的讲话-新华网/splitSentenceSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/FirstSummary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/FirstSummary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/TestDocument.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/getSummary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/out/production/GetSummary/com/getSummary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/src/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/src/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetSummary/src/com/getSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GetSummary/src/com/getSummary.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/getOpinionWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chooseOpinionWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="49" column="78" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chooseOpinionWords.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dealWithDocuments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="170" column="30" selection-start-line="170" selection-start-column="30" selection-end-line="170" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5865">
+              <caret line="428" selection-start-line="428" selection-end-line="428" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GenerateSentences.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/generateDocument.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/getSynonymsByPython.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/DocumentIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/getOpinionWords.java" />
+        <option value="$PROJECT_DIR$/src/com/getSynonymsByPython.java" />
+        <option value="$PROJECT_DIR$/src/com/generateDocument.java" />
+        <option value="$PROJECT_DIR$/src/com/dealWithDocuments.java" />
+        <option value="$PROJECT_DIR$/src/com/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/chooseOpinionWords.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
+    <option name="y" value="23" />
+    <option name="width" value="1236" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GenerateSentences" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenerateSentences" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenerateSentences" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenerateSentences" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenerateSentences" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenerateSentences" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553433820660" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.Main" />
+      <module name="GenerateSentences" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9858e399-f427-4b2f-8533-9036662cd758" name="Default Changelist" comment="" />
+      <created>1551697654453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551697654453</updated>
+      <workItem from="1552289481141" duration="239000" />
+      <workItem from="1552912342469" duration="4382000" />
+      <workItem from="1552963737926" duration="10129000" />
+      <workItem from="1553050227105" duration="3703000" />
+      <workItem from="1553078106863" duration="844000" />
+      <workItem from="1553155890460" duration="7156000" />
+      <workItem from="1553254270897" duration="9061000" />
+      <workItem from="1553433881089" duration="3194000" />
+      <workItem from="1553482058930" duration="5663000" />
+      <workItem from="1553580578047" duration="11663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56034000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="44" y="23" width="1236" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638191" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3026738" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34438503" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329927" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.329927" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="430" column="32" lean-forward="true" selection-start-line="430" selection-start-column="32" selection-end-line="430" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/fastjson-1.2.56.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="188" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../GetSummary/out/artifacts/GetSummary_jar/GetSummary.jar!/com/getSummary.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="304" column="56" lean-forward="true" selection-start-line="304" selection-start-column="56" selection-end-line="304" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="428" selection-start-line="428" selection-end-line="428" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenerateSentences.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DocumentIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dealWithDocuments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="170" column="30" selection-start-line="170" selection-start-column="30" selection-end-line="170" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generateDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/getOpinionWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/getSynonymsByPython.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chooseOpinionWords.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chooseOpinionWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="49" column="78" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GenerateSentences</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
